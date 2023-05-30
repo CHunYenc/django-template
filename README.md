@@ -1,11 +1,11 @@
-# backend
+# django-template
 
-- [backend](#backend)
+- [django-template](#django-template)
   - [.vscode 資料夾](#vscode-資料夾)
     - [說明](#說明)
-- [建立開發環境](#建立開發環境)
-  - [Windows](#windows)
-  - [Linux](#linux)
+  - [建立開發環境](#建立開發環境)
+    - [Windows](#windows)
+    - [Linux](#linux)
   - [安裝套件](#安裝套件)
   - [建立虛擬環境檔案](#建立虛擬環境檔案)
     - [本地端開發](#本地端開發)
@@ -16,15 +16,15 @@
 
 主要統一一些設定，包含使用哪個自動排版的工具。
 
-# 建立開發環境
+## 建立開發環境
 
-## Windows
+### Windows
 
 ```shell
 py -3.10 -m venv .venv # django
 ```
 
-## Linux
+### Linux
 
 ```shell
 python3.10 -m venv .venv
