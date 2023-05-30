@@ -1,0 +1,9 @@
+Django
+djangorestframework
+django-cors-headers
+django-environ
+django-filter
+django_debug_toolbar
+djangorestframework-simplejwt
+drf-spectacular
+psycopg2-binary
